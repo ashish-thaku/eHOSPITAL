@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-7mecxf_#1#10b_$o(*r$t(qzonh$s6kn56)6#r8*!ob&uit-mi
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost','ehospital-8tho.onrender.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost','ehospital-dqrd.onrender.com']
 
 # Application definition
 
